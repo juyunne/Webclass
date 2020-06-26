@@ -8,3 +8,6 @@ Artificial Intelligence
 
 MATLAB
 ## Big Data
+
+
+## 60171921 이주연
